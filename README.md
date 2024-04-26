@@ -1,28 +1,21 @@
-### Hi there 👋, ARAFAT AHAMMAD
-#### Trying for something different 👽
-![Trying for something different 👽](https://www.facebook.com/photo/?fbid=369253082634654&set=a.104598629100102&__tn__=%3C)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm MD YEASIN ARAFAT</h1>
+<h3 align="center">I am in search of something extraordinary..!</h3>
+<img align="right" alt="Coding" width="400" src=https://www.wattpad.com/1171184847-evolution-chapter-1">
 
-Assalamu Alaikum. I am a common man.  I am striving for something extraordinary. Insh*Allah I will do something one day. Which will be different from everyone and will be extraordinary. One day or the other I will be able to achieve success. I will never give up on one thing. God bless Hafez.....|
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=speed-arafat&label=Profile%20views&color=0e75b6&style=flat" alt="speed-arafat" /> </p>
 
-Skills: Python 🙂
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=speed-arafat" alt="speed-arafat" /></a> </p>
 
-- 🔭 I’m currently working on I am a common man brother. I do a common job. 
-- 🌱 I’m currently learning I learn Python....| 
-- 👯 I’m looking to collaborate on Github 
-- 🤔 I’m looking for help with Learning Python....| 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/arafat19847000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arafat19847000" height="30" width="40" /></a>
+<a href="https://instagram.com/arafat_ahemmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arafat_ahemmed" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://offeescript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SPEED-ARAFAT)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ARAFAT19847000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/arafat_ahemmed/)  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=speed-arafat&show_icons=true&locale=en&layout=compact" alt="speed-arafat" /></p>
 
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SPEED-ARAFAT)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPEED-ARAFAT)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SPEED-ARAFAT&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/SPEED-ARAFAT/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/SPEED-ARAFAT)  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=speed-arafat&" alt="speed-arafat" /></p>
